@@ -11,6 +11,12 @@
 # production
 /build
 
+#APIs
+apikeys.txt
+
+#Output jsons
+sampleOutput.json
+
 # misc
 .DS_Store
 .env.local
